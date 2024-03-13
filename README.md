@@ -50,7 +50,8 @@ print(x1_scaled)
 ## Output:
 ![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475703/2efedf6c-5633-45b3-a91c-754dc43fe7c5)
 
-![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475703/f2310119-fd33-4b52-8cd9-dcb7c6cc3854)![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475703/33d9de75-6920-4888-843e-d12332336c40)![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475703/cd48e666-7599-4a70-b9e7-2fc83d8e2e6d)![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475703/9059651e-11e5-4812-8c6d-f1b837cb2f81)
+![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475703/f2310119-fd33-4b52-8cd9-dcb7c6cc3854)![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475703/33d9de75-6920-4888-843e-d12332336c40)![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475703/cd48e666-7599-4a70-b9e7-2fc83d8e2e6d)
+![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475703/9059651e-11e5-4812-8c6d-f1b837cb2f81)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
